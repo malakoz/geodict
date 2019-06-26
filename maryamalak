@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8" standalone="true"?>
+
+<!--File Created By SMS Backup & Restore v10.04.100 on 19/02/2018 21:58:13-->
+
+<?altova_sps C:\Users\Tikka Masala Pizza\Documents\Altova\XMLSpy2019\Examples\ExpReport.sps?>
+
+-<calls backup_date="1519106293775" backup_set="764a6c1c-3f30-4172-b6ce-f4aea05f3f24" count="497">
+
+<call contact_name="(Unknown)" readable_date="Jan 13, 2018 11:11:28 AM" presentation="1" type="3" date="1515870688352" duration="0" number="6194156069"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 13, 2018 11:31:40 AM" presentation="1" type="2" date="1515871900872" duration="31" number="6194156069"/>
+
+<call contact_name="Vishal" readable_date="Jan 13, 2018 1:19:19 PM" presentation="1" type="1" date="1515878359295" duration="129" number="+14152656463"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 13, 2018 3:15:26 PM" presentation="1" type="3" date="1515885326359" duration="0" number="+12405068885"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 13, 2018 3:22:40 PM" presentation="1" type="2" date="1515885760984" duration="51" number="+12405068885"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 13, 2018 3:23:39 PM" presentation="1" type="3" date="1515885819082" duration="0" number="4436760176"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 13, 2018 3:24:12 PM" presentation="1" type="2" date="1515885852991" duration="34" number="4436760176"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 13, 2018 3:48:09 PM" presentation="1" type="3" date="1515887289548" duration="0" number="9253730151"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 13, 2018 3:58:39 PM" presentation="1" type="2" date="1515887919686" duration="5" number="9253730151"/>
+
+<call contact_name="Lily" readable_date="Jan 13, 2018 4:07:33 PM" presentation="1" type="2" date="1515888453603" duration="4" number="+12094258282"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 13, 2018 4:18:33 PM" presentation="1" type="1" date="1515889113316" duration="15" number="4436760176"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 13, 2018 5:09:49 PM" presentation="1" type="2" date="1515892189736" duration="37" number="2098320721"/>
+
+<call contact_name="Heather" readable_date="Jan 13, 2018 8:42:35 PM" presentation="1" type="1" date="1515904955077" duration="158" number="4422028282"/>
+
+<call contact_name="Vishal" readable_date="Jan 13, 2018 10:00:37 PM" presentation="1" type="2" date="1515909637546" duration="13" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Jan 13, 2018 10:01:37 PM" presentation="1" type="1" date="1515909697138" duration="104" number="+14152656463"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 14, 2018 11:15:47 AM" presentation="1" type="1" date="1515957347894" duration="19" number="4436760176"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 14, 2018 12:48:37 PM" presentation="1" type="2" date="1515962917205" duration="0" number="2096278291"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 14, 2018 12:49:39 PM" presentation="1" type="2" date="1515962979309" duration="0" number="2098314847"/>
+
+<call contact_name="Reed" readable_date="Jan 14, 2018 1:11:46 PM" presentation="1" type="2" date="1515964306995" duration="0" number="+15109419816"/>
+
+<call contact_name="Reed" readable_date="Jan 14, 2018 1:12:17 PM" presentation="1" type="2" date="1515964337359" duration="0" number="+15109419816"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 14, 2018 1:34:46 PM" presentation="1" type="2" date="1515965686935" duration="192" number="7604968687"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 14, 2018 2:21:11 PM" presentation="1" type="1" date="1515968471379" duration="9" number="7604968687"/>
+
+<call contact_name="Nubi" readable_date="Jan 14, 2018 3:42:32 PM" presentation="1" type="2" date="1515973352764" duration="2" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Jan 14, 2018 3:45:57 PM" presentation="1" type="2" date="1515973557664" duration="10" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Jan 14, 2018 4:01:27 PM" presentation="1" type="2" date="1515974487509" duration="2" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Jan 14, 2018 4:02:10 PM" presentation="1" type="2" date="1515974530606" duration="0" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Jan 14, 2018 4:02:48 PM" presentation="1" type="2" date="1515974568895" duration="0" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Jan 14, 2018 4:03:25 PM" presentation="1" type="2" date="1515974605519" duration="0" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Jan 14, 2018 4:04:00 PM" presentation="1" type="2" date="1515974640812" duration="45" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Jan 14, 2018 4:04:54 PM" presentation="1" type="2" date="1515974694526" duration="2" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Jan 14, 2018 4:10:57 PM" presentation="1" type="2" date="1515975057662" duration="122" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Jan 14, 2018 4:16:28 PM" presentation="1" type="2" date="1515975388709" duration="190" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Jan 14, 2018 4:23:14 PM" presentation="1" type="2" date="1515975794805" duration="8" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Jan 14, 2018 4:24:08 PM" presentation="1" type="2" date="1515975848306" duration="21" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Jan 14, 2018 4:25:12 PM" presentation="1" type="2" date="1515975912769" duration="12" number="+15103222190"/>
+
+<call contact_name="Vishal" readable_date="Jan 14, 2018 6:18:01 PM" presentation="1" type="1" date="1515982681669" duration="122" number="+14152656463"/>
+
+<call contact_name="Nubi" readable_date="Jan 14, 2018 6:28:28 PM" presentation="1" type="2" date="1515983308641" duration="6" number="+15103222190"/>
+
+<call contact_name="Reed" readable_date="Jan 14, 2018 6:29:21 PM" presentation="1" type="2" date="1515983361083" duration="0" number="+15109419816"/>
+
+<call contact_name="Lily" readable_date="Jan 14, 2018 6:29:43 PM" presentation="1" type="2" date="1515983383530" duration="29" number="+12094258282"/>
+
+<call contact_name="Jovani Nubi -hanyman" readable_date="Jan 14, 2018 6:31:05 PM" presentation="1" type="2" date="1515983465146" duration="99" number="+15106299976"/>
+
+<call contact_name="Vishal" readable_date="Jan 14, 2018 6:36:58 PM" presentation="1" type="2" date="1515983818042" duration="13" number="+14152656463"/>
+
+<call contact_name="Nubi" readable_date="Jan 14, 2018 6:41:45 PM" presentation="1" type="2" date="1515984105556" duration="0" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Jan 14, 2018 9:58:20 PM" presentation="1" type="2" date="1515995900841" duration="9" number="+15103222190"/>
+
+<call contact_name="Raza Mobile" readable_date="Jan 14, 2018 10:04:54 PM" presentation="1" type="2" date="1515996294218" duration="0" number="8602010311"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 14, 2018 10:05:55 PM" presentation="1" type="2" date="1515996355411" duration="88" number="2012990483"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 15, 2018 9:55:52 AM" presentation="1" type="2" date="1516038952078" duration="14" number="2096660800"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 15, 2018 9:57:14 AM" presentation="1" type="2" date="1516039034279" duration="202" number="+12098316550"/>
+
+<call contact_name="Vishal" readable_date="Jan 15, 2018 10:05:59 AM" presentation="1" type="1" date="1516039559159" duration="307" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Jan 15, 2018 11:18:47 AM" presentation="1" type="2" date="1516043927395" duration="19" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Jan 15, 2018 11:34:38 AM" presentation="1" type="2" date="1516044878566" duration="27" number="+14152656463"/>
+
+<call contact_name="Nicole" readable_date="Jan 15, 2018 12:51:21 PM" presentation="1" type="2" date="1516049481643" duration="6" number="+14086373629"/>
+
+<call contact_name="Nicole" readable_date="Jan 15, 2018 12:52:24 PM" presentation="1" type="1" date="1516049544722" duration="34" number="4086373629"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 15, 2018 2:23:37 PM" presentation="1" type="1" date="1516055017460" duration="0" number="2098130250"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 15, 2018 2:30:44 PM" presentation="1" type="1" date="1516055444227" duration="15" number="+12097405091"/>
+
+<call contact_name="Nubi" readable_date="Jan 15, 2018 2:45:32 PM" presentation="1" type="2" date="1516056332741" duration="4" number="+15103222190"/>
+
+<call contact_name="Reed" readable_date="Jan 15, 2018 2:51:39 PM" presentation="1" type="2" date="1516056699610" duration="6" number="+15109419816"/>
+
+<call contact_name="Nubi" readable_date="Jan 15, 2018 2:53:24 PM" presentation="1" type="2" date="1516056804433" duration="3" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Jan 15, 2018 2:55:52 PM" presentation="1" type="2" date="1516056952807" duration="3" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Jan 15, 2018 3:03:46 PM" presentation="1" type="2" date="1516057426449" duration="3" number="+15103222190"/>
+
+<call contact_name="Reed" readable_date="Jan 15, 2018 3:18:38 PM" presentation="1" type="2" date="1516058318575" duration="19" number="+15109419816"/>
+
+<call contact_name="Reed" readable_date="Jan 15, 2018 3:56:07 PM" presentation="1" type="2" date="1516060567456" duration="7" number="+15109419816"/>
+
+<call contact_name="Nubi" readable_date="Jan 15, 2018 3:56:31 PM" presentation="1" type="2" date="1516060591978" duration="8" number="+15103222190"/>
+
+<call contact_name="Reed" readable_date="Jan 15, 2018 4:08:15 PM" presentation="1" type="2" date="1516061295724" duration="4" number="+15109419816"/>
+
+<call contact_name="Farakkhan" readable_date="Jan 15, 2018 4:31:12 PM" presentation="1" type="2" date="1516062672234" duration="67" number="9252852620"/>
+
+<call contact_name="Reed" readable_date="Jan 15, 2018 5:07:44 PM" presentation="1" type="2" date="1516064864398" duration="4" number="+15109419816"/>
+
+<call contact_name="Reed" readable_date="Jan 15, 2018 8:23:09 PM" presentation="1" type="2" date="1516076589418" duration="5" number="+15109419816"/>
+
+<call contact_name="Reed" readable_date="Jan 15, 2018 9:47:26 PM" presentation="1" type="2" date="1516081646210" duration="3" number="+15109419816"/>
+
+<call contact_name="Nubi" readable_date="Jan 15, 2018 9:59:44 PM" presentation="1" type="2" date="1516082384663" duration="5" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Jan 15, 2018 10:02:04 PM" presentation="1" type="2" date="1516082524730" duration="0" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Jan 15, 2018 10:05:59 PM" presentation="1" type="2" date="1516082759723" duration="3" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Jan 15, 2018 10:08:46 PM" presentation="1" type="2" date="1516082926149" duration="0" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Jan 16, 2018 4:44:04 AM" presentation="1" type="2" date="1516106644878" duration="7" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Jan 16, 2018 4:58:14 AM" presentation="1" type="2" date="1516107494237" duration="0" number="+15103222190"/>
+
+<call contact_name="Vishal" readable_date="Jan 16, 2018 9:27:50 AM" presentation="1" type="1" date="1516123670692" duration="0" number="+14152656463"/>
+
+<call contact_name="Nubi 2" readable_date="Jan 16, 2018 9:35:29 AM" presentation="1" type="2" date="1516124129010" duration="3" number="+19168889405"/>
+
+<call contact_name="Sonali Bhabhi" readable_date="Jan 16, 2018 12:20:50 PM" presentation="1" type="2" date="1516134050040" duration="3" number="6615858406"/>
+
+<call contact_name="Sonali Bhabhi" readable_date="Jan 16, 2018 12:30:39 PM" presentation="1" type="2" date="1516134639741" duration="4" number="6615858406"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 16, 2018 12:41:22 PM" presentation="1" type="2" date="1516135282549" duration="213" number="2098316400"/>
+
+<call contact_name="Sonali Bhabhi" readable_date="Jan 16, 2018 3:36:28 PM" presentation="1" type="3" date="1516145788334" duration="0" number="6615858406"/>
+
+<call contact_name="Sonali Bhabhi" readable_date="Jan 16, 2018 3:44:03 PM" presentation="1" type="2" date="1516146243188" duration="713" number="6615858406"/>
+
+<call contact_name="Vishal" readable_date="Jan 16, 2018 4:37:33 PM" presentation="1" type="2" date="1516149453164" duration="219" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Jan 16, 2018 6:07:15 PM" presentation="1" type="3" date="1516154835192" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Jan 16, 2018 6:10:42 PM" presentation="1" type="2" date="1516155042204" duration="63" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Jan 17, 2018 10:31:49 AM" presentation="1" type="2" date="1516213909186" duration="60" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Jan 17, 2018 10:49:41 AM" presentation="1" type="1" date="1516214981360" duration="84" number="+14152656463"/>
+
+<call contact_name="Nubi" readable_date="Jan 17, 2018 11:00:56 AM" presentation="1" type="2" date="1516215656924" duration="0" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Jan 17, 2018 11:27:12 AM" presentation="1" type="2" date="1516217232478" duration="2" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Jan 17, 2018 11:34:03 AM" presentation="1" type="2" date="1516217643452" duration="9" number="+15103222190"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 17, 2018 3:03:58 PM" presentation="1" type="2" date="1516230238645" duration="0" number="+12098303319"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 17, 2018 3:04:18 PM" presentation="1" type="2" date="1516230258442" duration="82" number="+12098303319"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 17, 2018 10:12:20 PM" presentation="1" type="2" date="1516255940393" duration="30" number="+17202542849"/>
+
+<call contact_name="Joylenin Mom MELISSA" readable_date="Jan 18, 2018 4:10:19 PM" presentation="1" type="2" date="1516320619095" duration="3" number="2098550925"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 18, 2018 4:11:16 PM" presentation="1" type="2" date="1516320676641" duration="3" number="2093620350"/>
+
+<call contact_name="Connor Mom Natalie" readable_date="Jan 18, 2018 4:13:34 PM" presentation="1" type="2" date="1516320814172" duration="34" number="2096404119"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 18, 2018 8:15:01 PM" presentation="1" type="2" date="1516335301240" duration="123" number="+18006453880"/>
+
+<call contact_name="Vishal" readable_date="Jan 19, 2018 9:49:27 AM" presentation="1" type="3" date="1516384167189" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Jan 19, 2018 10:13:23 AM" presentation="1" type="2" date="1516385603333" duration="3" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Jan 19, 2018 10:15:22 AM" presentation="1" type="1" date="1516385722367" duration="821" number="+14152656463"/>
+
+<call contact_name="Nubi" readable_date="Jan 19, 2018 12:51:47 PM" presentation="1" type="2" date="1516395107762" duration="2" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Jan 19, 2018 12:52:04 PM" presentation="1" type="2" date="1516395124332" duration="3" number="+15103222190"/>
+
+<call contact_name="Reed" readable_date="Jan 19, 2018 12:54:07 PM" presentation="1" type="2" date="1516395247883" duration="8" number="+15109419816"/>
+
+<call contact_name="Reed" readable_date="Jan 19, 2018 12:58:46 PM" presentation="1" type="2" date="1516395526662" duration="0" number="+15109419816"/>
+
+<call contact_name="Nubi" readable_date="Jan 19, 2018 1:00:26 PM" presentation="1" type="2" date="1516395626753" duration="2" number="+15103222190"/>
+
+<call contact_name="Vishal" readable_date="Jan 19, 2018 1:06:24 PM" presentation="1" type="2" date="1516395984938" duration="14" number="+14152656463"/>
+
+<call contact_name="Nubi" readable_date="Jan 19, 2018 1:09:42 PM" presentation="1" type="2" date="1516396182431" duration="3" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Jan 19, 2018 1:13:27 PM" presentation="1" type="2" date="1516396407554" duration="0" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Jan 19, 2018 1:37:18 PM" presentation="1" type="2" date="1516397838724" duration="1" number="+15103222190"/>
+
+<call contact_name="Vishal" readable_date="Jan 19, 2018 1:44:33 PM" presentation="1" type="3" date="1516398273782" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Jan 19, 2018 2:59:24 PM" presentation="1" type="2" date="1516402764640" duration="42" number="+14152656463"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 19, 2018 4:25:25 PM" presentation="1" type="2" date="1516407925884" duration="71" number="9514201327"/>
+
+<call contact_name="Vishal" readable_date="Jan 19, 2018 5:59:05 PM" presentation="1" type="2" date="1516413545870" duration="250" number="+14152656463"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 19, 2018 6:01:21 PM" presentation="1" type="3" date="1516413681698" duration="0" number="9514201327"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 19, 2018 6:03:40 PM" presentation="1" type="2" date="1516413820334" duration="31" number="9514201327"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 19, 2018 6:16:02 PM" presentation="1" type="2" date="1516414562788" duration="51" number="+19514201327"/>
+
+<call contact_name="Lily" readable_date="Jan 20, 2018 10:57:12 AM" presentation="1" type="3" date="1516474632404" duration="0" number="2094258282"/>
+
+<call contact_name="Lily" readable_date="Jan 20, 2018 10:57:44 AM" presentation="1" type="2" date="1516474664886" duration="4" number="2094258282"/>
+
+<call contact_name="Lily" readable_date="Jan 20, 2018 10:58:48 AM" presentation="1" type="2" date="1516474728612" duration="186" number="2094258282"/>
+
+<call contact_name="Vishal" readable_date="Jan 20, 2018 1:14:54 PM" presentation="1" type="3" date="1516482894117" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Jan 20, 2018 1:25:32 PM" presentation="1" type="2" date="1516483532624" duration="36" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Jan 20, 2018 6:27:05 PM" presentation="1" type="2" date="1516501625796" duration="294" number="+14152656463"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 20, 2018 6:39:55 PM" presentation="1" type="2" date="1516502395192" duration="0" number="2092714117"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 20, 2018 9:23:20 PM" presentation="1" type="2" date="1516512200735" duration="0" number="4249013038"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 20, 2018 9:27:22 PM" presentation="1" type="2" date="1516512442336" duration="0" number="*#674249013"/>
+
+<call contact_name="Seema Babysitter" readable_date="Jan 21, 2018 1:05:35 PM" presentation="1" type="3" date="1516568735423" duration="0" number="+16508623504"/>
+
+<call contact_name="Vishal" readable_date="Jan 21, 2018 6:43:21 PM" presentation="1" type="1" date="1516589001030" duration="229" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Jan 21, 2018 6:48:52 PM" presentation="1" type="1" date="1516589332028" duration="314" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Jan 21, 2018 7:05:25 PM" presentation="1" type="2" date="1516590325370" duration="204" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Jan 22, 2018 8:14:49 AM" presentation="1" type="2" date="1516637689763" duration="134" number="+14152656463"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 22, 2018 8:18:05 AM" presentation="1" type="2" date="1516637885617" duration="0" number="9807064166"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 22, 2018 8:32:28 AM" presentation="1" type="2" date="1516638748361" duration="23" number="18002655328"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 22, 2018 8:33:59 AM" presentation="1" type="2" date="1516638839827" duration="79" number="18002655328"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 22, 2018 8:35:31 AM" presentation="1" type="2" date="1516638931088" duration="121" number="18002655328"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 22, 2018 10:29:20 AM" presentation="1" type="3" date="1516645760076" duration="0" number="8555492113"/>
+
+<call contact_name="Vishal" readable_date="Jan 22, 2018 10:58:35 AM" presentation="1" type="1" date="1516647515491" duration="0" number="+14152656463"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 22, 2018 11:03:24 AM" presentation="1" type="2" date="1516647804632" duration="0" number="2098313550"/>
+
+<call contact_name="Vishal" readable_date="Jan 22, 2018 2:20:12 PM" presentation="1" type="2" date="1516659612138" duration="0" number="+14152656463"/>
+
+<call contact_name="Sonali Bhabhi" readable_date="Jan 22, 2018 2:22:38 PM" presentation="1" type="2" date="1516659758792" duration="3" number="6615858406"/>
+
+<call contact_name="Sonali Bhabhi" readable_date="Jan 22, 2018 2:52:57 PM" presentation="1" type="1" date="1516661577398" duration="3049" number="6615858406"/>
+
+<call contact_name="Lily" readable_date="Jan 22, 2018 4:35:29 PM" presentation="1" type="3" date="1516667729945" duration="0" number="2094258282"/>
+
+<call contact_name="Lily" readable_date="Jan 22, 2018 7:53:22 PM" presentation="1" type="3" date="1516679602081" duration="0" number="2094258282"/>
+
+<call contact_name="Lily" readable_date="Jan 22, 2018 8:06:25 PM" presentation="1" type="2" date="1516680385533" duration="16" number="2094258282"/>
+
+<call contact_name="Lily" readable_date="Jan 22, 2018 9:07:15 PM" presentation="1" type="1" date="1516684035618" duration="53" number="2094258282"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 23, 2018 3:24:01 PM" presentation="1" type="2" date="1516749841997" duration="62" number="2098313550"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 23, 2018 4:56:01 PM" presentation="1" type="2" date="1516755361806" duration="89" number="+18009378997"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 24, 2018 9:39:03 PM" presentation="1" type="2" date="1516858743520" duration="0" number="+16509214224"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 25, 2018 10:35:57 AM" presentation="1" type="2" date="1516905357762" duration="0" number="+16509214224"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 25, 2018 10:37:49 AM" presentation="1" type="2" date="1516905469244" duration="0" number="+16509214224"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 25, 2018 10:40:25 AM" presentation="1" type="2" date="1516905625379" duration="0" number="+16509214224"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 26, 2018 4:01:44 PM" presentation="1" type="2" date="1517011304822" duration="1113" number="+18009378997"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 27, 2018 12:19:33 PM" presentation="1" type="2" date="1517084373695" duration="25" number="+18009378997"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 27, 2018 7:31:14 PM" presentation="1" type="2" date="1517110274390" duration="9" number="*674245421155"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 29, 2018 11:59:52 AM" presentation="1" type="2" date="1517255992779" duration="5" number="4082940786"/>
+
+<call contact_name="Nicole" readable_date="Jan 29, 2018 5:22:03 PM" presentation="1" type="2" date="1517275323076" duration="0" number="4086373629"/>
+
+<call contact_name="(Unknown)" readable_date="Jan 30, 2018 8:12:07 PM" presentation="1" type="2" date="1517371927244" duration="9" number="*674245421155"/>
+
+<call contact_name="Reed" readable_date="Feb 1, 2018 12:49:03 AM" presentation="1" type="2" date="1517474943918" duration="71" number="+15109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 1, 2018 4:40:29 AM" presentation="1" type="2" date="1517488829031" duration="91" number="+15109419816"/>
+
+<call contact_name="Sonali Bhabhi" readable_date="Feb 1, 2018 1:02:21 PM" presentation="1" type="2" date="1517518941482" duration="0" number="6615858406"/>
+
+<call contact_name="Sonali Bhabhi" readable_date="Feb 2, 2018 5:30:35 PM" presentation="1" type="2" date="1517621435854" duration="14" number="6615858406"/>
+
+<call contact_name="Sonali Bhabhi" readable_date="Feb 2, 2018 6:17:14 PM" presentation="1" type="2" date="1517624234525" duration="8" number="6615858406"/>
+
+<call contact_name="Nubi" readable_date="Feb 3, 2018 1:31:26 PM" presentation="1" type="2" date="1517693486779" duration="0" number="+15103222190"/>
+
+<call contact_name="Sonali Bhabhi" readable_date="Feb 3, 2018 2:44:32 PM" presentation="1" type="3" date="1517697872742" duration="0" number="16615858406"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 3, 2018 5:05:03 PM" presentation="1" type="2" date="1517706303011" duration="8" number="2093625481"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 4, 2018 11:44:44 AM" presentation="1" type="3" date="1517773484006" duration="0" number="13103405516"/>
+
+<call contact_name="Sonali Bhabhi" readable_date="Feb 4, 2018 1:30:24 PM" presentation="1" type="3" date="1517779824447" duration="0" number="16615858406"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 5, 2018 9:13:25 AM" presentation="1" type="2" date="1517850805436" duration="508" number="15629420802"/>
+
+<call contact_name="Heather" readable_date="Feb 5, 2018 9:57:40 AM" presentation="1" type="2" date="1517853460886" duration="5" number="4422028282"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 5, 2018 10:07:14 AM" presentation="1" type="1" date="1517854034749" duration="76" number="13103405516"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 5, 2018 10:25:03 AM" presentation="1" type="1" date="1517855103088" duration="32" number="13103405516"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 5, 2018 10:47:00 AM" presentation="1" type="2" date="1517856420897" duration="38" number="18773289677"/>
+
+<call contact_name="Sonali Bhabhi" readable_date="Feb 5, 2018 11:15:55 AM" presentation="1" type="3" date="1517858155667" duration="0" number="16615858406"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 5, 2018 4:00:43 PM" presentation="1" type="1" date="1517875243447" duration="35" number="13103405516"/>
+
+<call contact_name="Vishal" readable_date="Feb 6, 2018 11:49:29 AM" presentation="1" type="3" date="1517946569261" duration="0" number="14152656463"/>
+
+<call contact_name="Heather" readable_date="Feb 6, 2018 12:03:03 PM" presentation="1" type="3" date="1517947383820" duration="0" number="14422028282"/>
+
+<call contact_name="Heather" readable_date="Feb 6, 2018 12:18:12 PM" presentation="1" type="3" date="1517948292501" duration="0" number="14422028282"/>
+
+<call contact_name="Heather" readable_date="Feb 6, 2018 9:37:54 PM" presentation="1" type="3" date="1517981874588" duration="0" number="14422028282"/>
+
+<call contact_name="Heather" readable_date="Feb 6, 2018 9:39:06 PM" presentation="1" type="3" date="1517981946790" duration="0" number="14422028282"/>
+
+<call contact_name="Heather" readable_date="Feb 6, 2018 9:39:58 PM" presentation="1" type="3" date="1517981998772" duration="0" number="14422028282"/>
+
+<call contact_name="Heather" readable_date="Feb 6, 2018 9:40:47 PM" presentation="1" type="3" date="1517982047256" duration="0" number="14422028282"/>
+
+<call contact_name="Heather" readable_date="Feb 6, 2018 9:41:53 PM" presentation="1" type="3" date="1517982113578" duration="0" number="14422028282"/>
+
+<call contact_name="Heather" readable_date="Feb 6, 2018 9:46:08 PM" presentation="1" type="3" date="1517982368251" duration="0" number="14422028282"/>
+
+<call contact_name="Heather" readable_date="Feb 6, 2018 9:46:58 PM" presentation="1" type="3" date="1517982418950" duration="0" number="14422028282"/>
+
+<call contact_name="Heather" readable_date="Feb 6, 2018 9:48:52 PM" presentation="1" type="3" date="1517982532778" duration="0" number="14422028282"/>
+
+<call contact_name="Heather" readable_date="Feb 6, 2018 9:49:46 PM" presentation="1" type="3" date="1517982586069" duration="0" number="14422028282"/>
+
+<call contact_name="Heather" readable_date="Feb 6, 2018 9:50:39 PM" presentation="1" type="3" date="1517982639564" duration="0" number="14422028282"/>
+
+<call contact_name="Heather" readable_date="Feb 6, 2018 9:51:31 PM" presentation="1" type="3" date="1517982691369" duration="0" number="14422028282"/>
+
+<call contact_name="Heather" readable_date="Feb 6, 2018 9:52:21 PM" presentation="1" type="3" date="1517982741434" duration="0" number="14422028282"/>
+
+<call contact_name="Heather" readable_date="Feb 6, 2018 9:53:13 PM" presentation="1" type="3" date="1517982793695" duration="0" number="14422028282"/>
+
+<call contact_name="Heather" readable_date="Feb 6, 2018 9:54:46 PM" presentation="1" type="3" date="1517982886061" duration="0" number="14422028282"/>
+
+<call contact_name="Heather" readable_date="Feb 6, 2018 9:56:18 PM" presentation="1" type="3" date="1517982978780" duration="0" number="14422028282"/>
+
+<call contact_name="Nubi" readable_date="Feb 7, 2018 11:01:23 AM" presentation="1" type="2" date="1518030083811" duration="8" number="+15103222190"/>
+
+<call contact_name="Sonali Bhabhi" readable_date="Feb 7, 2018 1:59:47 PM" presentation="1" type="2" date="1518040787935" duration="1330" number="6615858406"/>
+
+<call contact_name="Vishal" readable_date="Feb 7, 2018 3:50:24 PM" presentation="1" type="2" date="1518047424725" duration="34" number="14152656463"/>
+
+<call contact_name="Reed" readable_date="Feb 7, 2018 4:27:32 PM" presentation="1" type="2" date="1518049652062" duration="0" number="+15109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 7, 2018 4:27:44 PM" presentation="1" type="2" date="1518049664469" duration="0" number="+15109419816"/>
+
+<call contact_name="Nubi" readable_date="Feb 7, 2018 5:13:28 PM" presentation="1" type="3" date="1518052408233" duration="0" number="5103222190"/>
+
+<call contact_name="Nubi" readable_date="Feb 7, 2018 5:45:24 PM" presentation="1" type="2" date="1518054324924" duration="3" number="5103222190"/>
+
+<call contact_name="Reed" readable_date="Feb 7, 2018 7:43:38 PM" presentation="1" type="2" date="1518061418768" duration="9" number="+15109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 7, 2018 7:46:03 PM" presentation="1" type="2" date="1518061563163" duration="16" number="+15109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 7, 2018 7:46:54 PM" presentation="1" type="3" date="1518061614305" duration="0" number="5109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 7, 2018 7:47:08 PM" presentation="1" type="2" date="1518061628307" duration="5" number="5109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 7, 2018 7:47:42 PM" presentation="1" type="1" date="1518061662074" duration="92" number="5109419816"/>
+
+<call contact_name="Lucy Mom" readable_date="Feb 7, 2018 7:52:28 PM" presentation="1" type="2" date="1518061948274" duration="34" number="12092211654"/>
+
+<call contact_name="Sonali Bhabhi" readable_date="Feb 7, 2018 10:18:00 PM" presentation="1" type="2" date="1518070680664" duration="0" number="+16615858406"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 7, 2018 11:19:49 PM" presentation="1" type="2" date="1518074389494" duration="7" number="*672092787231"/>
+
+<call contact_name="Heather" readable_date="Feb 8, 2018 3:47:39 AM" presentation="1" type="3" date="1518090459325" duration="0" number="4422028282"/>
+
+<call contact_name="Lucy Mom" readable_date="Feb 8, 2018 7:21:54 AM" presentation="1" type="2" date="1518103314035" duration="65" number="12092211654"/>
+
+<call contact_name="Sonali Bhabhi" readable_date="Feb 8, 2018 7:27:08 AM" presentation="1" type="1" date="1518103628019" duration="19" number="6615858406"/>
+
+<call contact_name="Sonali Bhabhi" readable_date="Feb 8, 2018 8:22:09 AM" presentation="1" type="2" date="1518106929958" duration="3883" number="6615858406"/>
+
+<call contact_name="Nicole" readable_date="Feb 8, 2018 9:27:45 AM" presentation="1" type="2" date="1518110865350" duration="165" number="+14086373629"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 8, 2018 9:32:47 AM" presentation="1" type="3" date="1518111167063" duration="0" number="5159789788"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 8, 2018 9:34:22 AM" presentation="1" type="2" date="1518111262404" duration="78" number="5159789788"/>
+
+<call contact_name="Vishal" readable_date="Feb 8, 2018 9:35:51 AM" presentation="1" type="2" date="1518111351660" duration="146" number="14152656463"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 8, 2018 11:14:38 AM" presentation="1" type="2" date="1518117278080" duration="202" number="+12098361490"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 8, 2018 11:18:26 AM" presentation="1" type="2" date="1518117506936" duration="100" number="+12098300091"/>
+
+<call contact_name="Heather" readable_date="Feb 8, 2018 2:32:20 PM" presentation="1" type="1" date="1518129140358" duration="25" number="4422028282"/>
+
+<call contact_name="Vishal" readable_date="Feb 8, 2018 4:49:42 PM" presentation="1" type="1" date="1518137382340" duration="42" number="+14152656463"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 8, 2018 5:34:04 PM" presentation="1" type="1" date="1518140044105" duration="28" number="2098303319"/>
+
+<call contact_name="Vishal" readable_date="Feb 8, 2018 5:36:49 PM" presentation="1" type="2" date="1518140209919" duration="16" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 8, 2018 5:38:25 PM" presentation="1" type="1" date="1518140305910" duration="111" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 8, 2018 5:42:08 PM" presentation="1" type="1" date="1518140528221" duration="466" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 9, 2018 8:47:04 AM" presentation="1" type="3" date="1518194824373" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 9, 2018 8:47:47 AM" presentation="1" type="2" date="1518194867263" duration="264" number="+14152656463"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 9, 2018 11:20:08 AM" presentation="1" type="2" date="1518204008275" duration="364" number="8666399320"/>
+
+<call contact_name="Sonali Bhabhi" readable_date="Feb 9, 2018 2:29:06 PM" presentation="1" type="2" date="1518215346659" duration="2" number="6615858406"/>
+
+<call contact_name="Sonali Bhabhi" readable_date="Feb 9, 2018 2:45:41 PM" presentation="1" type="1" date="1518216341082" duration="811" number="6615858406"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 9, 2018 5:39:00 PM" presentation="1" type="3" date="1518226740112" duration="0" number="2098303319"/>
+
+<call contact_name="Immigration" readable_date="Feb 9, 2018 9:30:40 PM" presentation="1" type="2" date="1518240640417" duration="0" number="5109348313"/>
+
+<call contact_name="Vishal" readable_date="Feb 10, 2018 11:09:00 AM" presentation="1" type="1" date="1518289740682" duration="1166" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 11, 2018 8:27:45 AM" presentation="1" type="2" date="1518366465799" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 11, 2018 8:28:10 AM" presentation="1" type="2" date="1518366490906" duration="44" number="+14152656463"/>
+
+<call contact_name="Nicole" readable_date="Feb 11, 2018 8:38:58 AM" presentation="1" type="3" date="1518367138715" duration="0" number="+14086373629"/>
+
+<call contact_name="Vishal" readable_date="Feb 11, 2018 10:36:41 AM" presentation="1" type="1" date="1518374201893" duration="1377" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 11, 2018 11:10:38 AM" presentation="1" type="2" date="1518376238488" duration="258" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 11, 2018 12:04:37 PM" presentation="1" type="2" date="1518379477042" duration="370" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 11, 2018 1:40:22 PM" presentation="1" type="1" date="1518385222406" duration="524" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 11, 2018 1:49:40 PM" presentation="1" type="2" date="1518385780191" duration="94" number="+14152656463"/>
+
+<call contact_name="Heather" readable_date="Feb 11, 2018 6:54:37 PM" presentation="1" type="3" date="1518404077015" duration="0" number="4422028282"/>
+
+<call contact_name="Heather" readable_date="Feb 11, 2018 6:59:19 PM" presentation="1" type="3" date="1518404359938" duration="0" number="4422028282"/>
+
+<call contact_name="Vishal" readable_date="Feb 11, 2018 8:03:46 PM" presentation="1" type="3" date="1518408226325" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 11, 2018 8:29:11 PM" presentation="1" type="3" date="1518409751179" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 11, 2018 8:29:42 PM" presentation="1" type="3" date="1518409782810" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 11, 2018 8:30:42 PM" presentation="1" type="2" date="1518409842046" duration="219" number="+14152656463"/>
+
+<call contact_name="Nubi" readable_date="Feb 12, 2018 8:23:47 AM" presentation="1" type="2" date="1518452627469" duration="1" number="5103222190"/>
+
+<call contact_name="Nubi" readable_date="Feb 12, 2018 8:55:53 AM" presentation="1" type="2" date="1518454553084" duration="5" number="5103222190"/>
+
+<call contact_name="Nubi" readable_date="Feb 12, 2018 9:02:21 AM" presentation="1" type="2" date="1518454941968" duration="0" number="5103222190"/>
+
+<call contact_name="Nubi" readable_date="Feb 12, 2018 9:06:45 AM" presentation="1" type="2" date="1518455205383" duration="2" number="5103222190"/>
+
+<call contact_name="Nubi" readable_date="Feb 12, 2018 9:07:44 AM" presentation="1" type="2" date="1518455264678" duration="0" number="5103222190"/>
+
+<call contact_name="Vishal" readable_date="Feb 12, 2018 9:10:08 AM" presentation="1" type="2" date="1518455408881" duration="39" number="+14152656463"/>
+
+<call contact_name="Nubi" readable_date="Feb 12, 2018 9:18:54 AM" presentation="1" type="2" date="1518455934413" duration="4" number="5103222190"/>
+
+<call contact_name="Nubi" readable_date="Feb 12, 2018 9:19:57 AM" presentation="1" type="2" date="1518455997341" duration="27" number="5103222190"/>
+
+<call contact_name="Nubi" readable_date="Feb 12, 2018 9:21:24 AM" presentation="1" type="2" date="1518456084226" duration="0" number="5103222190"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 12, 2018 9:21:58 AM" presentation="1" type="2" date="1518456118432" duration="0" number="2092293073"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 12, 2018 9:22:25 AM" presentation="1" type="2" date="1518456145554" duration="0" number="209"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 12, 2018 9:22:42 AM" presentation="1" type="2" date="1518456162771" duration="0" number="2092293073"/>
+
+<call contact_name="Lucy Mom" readable_date="Feb 12, 2018 9:23:17 AM" presentation="1" type="2" date="1518456197389" duration="3" number="12092211654"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 12, 2018 9:24:08 AM" presentation="1" type="2" date="1518456248408" duration="0" number="2092293073"/>
+
+<call contact_name="Nubi" readable_date="Feb 12, 2018 10:33:05 AM" presentation="1" type="2" date="1518460385177" duration="7" number="5103222190"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 12, 2018 11:35:17 AM" presentation="1" type="2" date="1518464117958" duration="0" number="2092293073"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 12, 2018 11:35:34 AM" presentation="1" type="2" date="1518464134046" duration="0" number="2092293073"/>
+
+<call contact_name="Nubi" readable_date="Feb 12, 2018 11:35:45 AM" presentation="1" type="2" date="1518464145470" duration="3" number="5103222190"/>
+
+<call contact_name="Immigration" readable_date="Feb 12, 2018 1:03:44 PM" presentation="1" type="2" date="1518469424165" duration="29" number="5109348313"/>
+
+<call contact_name="Nubi" readable_date="Feb 12, 2018 2:25:32 PM" presentation="1" type="2" date="1518474332343" duration="5" number="5103222190"/>
+
+<call contact_name="Immigration" readable_date="Feb 12, 2018 2:42:50 PM" presentation="1" type="2" date="1518475370959" duration="30" number="5109348313"/>
+
+<call contact_name="Immigration" readable_date="Feb 12, 2018 2:43:53 PM" presentation="1" type="2" date="1518475433578" duration="29" number="5109348313"/>
+
+<call contact_name="Immigration" readable_date="Feb 12, 2018 2:46:31 PM" presentation="1" type="2" date="1518475591997" duration="0" number="5109348313"/>
+
+<call contact_name="Vishal" readable_date="Feb 12, 2018 3:40:36 PM" presentation="1" type="2" date="1518478836838" duration="99" number="+14152656463"/>
+
+<call contact_name="Manchurian Neighbor" readable_date="Feb 12, 2018 4:55:09 PM" presentation="1" type="2" date="1518483309517" duration="0" number="4086054857"/>
+
+<call contact_name="Vishal" readable_date="Feb 12, 2018 5:30:10 PM" presentation="1" type="1" date="1518485410180" duration="696" number="+14152656463"/>
+
+<call contact_name="Heather" readable_date="Feb 12, 2018 6:00:16 PM" presentation="1" type="3" date="1518487216906" duration="0" number="4422028282"/>
+
+<call contact_name="Heather" readable_date="Feb 12, 2018 6:06:12 PM" presentation="1" type="3" date="1518487572324" duration="0" number="4422028282"/>
+
+<call contact_name="Heather" readable_date="Feb 12, 2018 7:06:42 PM" presentation="1" type="1" date="1518491202204" duration="207" number="4422028282"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 12, 2018 7:10:35 PM" presentation="1" type="3" date="1518491435336" duration="0" number="+14088399538"/>
+
+<call contact_name="Heather" readable_date="Feb 12, 2018 7:15:34 PM" presentation="1" type="3" date="1518491734245" duration="0" number="4422028282"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 12, 2018 7:27:29 PM" presentation="1" type="2" date="1518492449511" duration="217" number="4088399538"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 12, 2018 8:39:41 PM" presentation="1" type="2" date="1518496781305" duration="306" number="2012990483"/>
+
+<call contact_name="Vishal" readable_date="Feb 12, 2018 8:41:03 PM" presentation="1" type="3" date="1518496863587" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 12, 2018 8:41:35 PM" presentation="1" type="3" date="1518496895229" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 12, 2018 8:42:05 PM" presentation="1" type="3" date="1518496925702" duration="0" number="+14152656463"/>
+
+<call contact_name="Heather" readable_date="Feb 12, 2018 8:42:42 PM" presentation="1" type="3" date="1518496962432" duration="0" number="4422028282"/>
+
+<call contact_name="Heather" readable_date="Feb 12, 2018 8:45:06 PM" presentation="1" type="2" date="1518497106478" duration="206" number="4422028282"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 12, 2018 8:49:37 PM" presentation="1" type="2" date="1518497377021" duration="1165" number="2012990483"/>
+
+<call contact_name="Vishal" readable_date="Feb 12, 2018 9:06:19 PM" presentation="1" type="3" date="1518498379376" duration="0" number="+14152656463"/>
+
+<call contact_name="Heather" readable_date="Feb 12, 2018 9:08:28 PM" presentation="1" type="3" date="1518498508549" duration="0" number="4422028282"/>
+
+<call contact_name="Vishal" readable_date="Feb 12, 2018 9:13:41 PM" presentation="1" type="2" date="1518498821778" duration="44" number="+14152656463"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 12, 2018 9:14:56 PM" presentation="1" type="2" date="1518498896876" duration="754" number="2012990483"/>
+
+<call contact_name="Vishal" readable_date="Feb 13, 2018 9:48:50 AM" presentation="1" type="3" date="1518544130888" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 13, 2018 9:49:23 AM" presentation="1" type="3" date="1518544163846" duration="0" number="+14152656463"/>
+
+<call contact_name="Lucy Mom" readable_date="Feb 13, 2018 11:36:43 AM" presentation="1" type="2" date="1518550603104" duration="34" number="12092211654"/>
+
+<call contact_name="Vishal" readable_date="Feb 13, 2018 12:29:12 PM" presentation="1" type="3" date="1518553752341" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 13, 2018 12:38:37 PM" presentation="1" type="2" date="1518554317896" duration="64" number="+14152656463"/>
+
+<call contact_name="Heather" readable_date="Feb 13, 2018 1:12:09 PM" presentation="1" type="3" date="1518556329478" duration="0" number="4422028282"/>
+
+<call contact_name="Heather" readable_date="Feb 13, 2018 1:14:31 PM" presentation="1" type="3" date="1518556471838" duration="0" number="4422028282"/>
+
+<call contact_name="Heather" readable_date="Feb 13, 2018 1:15:27 PM" presentation="1" type="3" date="1518556527725" duration="0" number="4422028282"/>
+
+<call contact_name="Heather" readable_date="Feb 13, 2018 1:17:30 PM" presentation="1" type="2" date="1518556650590" duration="214" number="4422028282"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 13, 2018 1:45:30 PM" presentation="1" type="2" date="1518558330204" duration="4" number="*675103222190"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 13, 2018 2:28:24 PM" presentation="1" type="2" date="1518560904628" duration="4" number="*675103222190"/>
+
+<call contact_name="Nubi" readable_date="Feb 13, 2018 3:12:58 PM" presentation="1" type="2" date="1518563578676" duration="0" number="5103222190"/>
+
+<call contact_name="Vishal" readable_date="Feb 13, 2018 3:54:00 PM" presentation="1" type="2" date="1518566040662" duration="11" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 13, 2018 4:16:06 PM" presentation="1" type="2" date="1518567366681" duration="3" number="+14152656463"/>
+
+<call contact_name="Nubi" readable_date="Feb 13, 2018 4:21:04 PM" presentation="1" type="2" date="1518567664841" duration="9" number="5103222190"/>
+
+<call contact_name="Nubi" readable_date="Feb 13, 2018 5:51:48 PM" presentation="1" type="2" date="1518573108966" duration="530" number="5103222190"/>
+
+<call contact_name="Nubi" readable_date="Feb 13, 2018 6:01:14 PM" presentation="1" type="2" date="1518573674207" duration="2" number="5103222190"/>
+
+<call contact_name="Nubi" readable_date="Feb 13, 2018 6:05:04 PM" presentation="1" type="2" date="1518573904450" duration="0" number="5103222190"/>
+
+<call contact_name="Lucy Mom" readable_date="Feb 13, 2018 6:23:49 PM" presentation="1" type="1" date="1518575029369" duration="29" number="2092211654"/>
+
+<call contact_name="Reed" readable_date="Feb 13, 2018 9:07:37 PM" presentation="1" type="2" date="1518584857964" duration="2" number="+15109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 13, 2018 9:08:18 PM" presentation="1" type="1" date="1518584898330" duration="62" number="5109419816"/>
+
+<call contact_name="Heather" readable_date="Feb 13, 2018 10:19:10 PM" presentation="1" type="1" date="1518589150996" duration="224" number="4422028282"/>
+
+<call contact_name="Vishal" readable_date="Feb 14, 2018 8:38:33 AM" presentation="1" type="1" date="1518626313376" duration="77" number="+14152656463"/>
+
+<call contact_name="Heather" readable_date="Feb 14, 2018 8:42:37 AM" presentation="1" type="2" date="1518626557098" duration="137" number="4422028282"/>
+
+<call contact_name="Reed" readable_date="Feb 14, 2018 8:59:28 AM" presentation="1" type="2" date="1518627568088" duration="5" number="5109419816"/>
+
+<call contact_name="Quee" readable_date="Feb 14, 2018 9:18:57 AM" presentation="1" type="2" date="1518628737881" duration="27" number="2092787126"/>
+
+<call contact_name="Lucy Mom" readable_date="Feb 14, 2018 9:19:45 AM" presentation="1" type="2" date="1518628785254" duration="0" number="12092211654"/>
+
+<call contact_name="Reed" readable_date="Feb 14, 2018 9:44:21 AM" presentation="1" type="1" date="1518630261740" duration="57" number="5109419816"/>
+
+<call contact_name="Vishal" readable_date="Feb 14, 2018 9:54:46 AM" presentation="1" type="2" date="1518630886172" duration="247" number="+14152656463"/>
+
+<call contact_name="Reed" readable_date="Feb 14, 2018 10:56:56 AM" presentation="1" type="2" date="1518634616961" duration="66" number="+15109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 14, 2018 10:58:32 AM" presentation="1" type="2" date="1518634712713" duration="245" number="+15109419816"/>
+
+<call contact_name="Immigration" readable_date="Feb 14, 2018 12:29:24 PM" presentation="1" type="2" date="1518640164038" duration="17" number="5109348313"/>
+
+<call contact_name="Immigration" readable_date="Feb 14, 2018 12:29:59 PM" presentation="1" type="2" date="1518640199587" duration="34" number="5109348313"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 14, 2018 1:03:25 PM" presentation="1" type="2" date="1518642205235" duration="147" number="+12098355262"/>
+
+<call contact_name="Vishal" readable_date="Feb 14, 2018 1:34:16 PM" presentation="1" type="1" date="1518644056759" duration="87" number="+14152656463"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 14, 2018 1:37:44 PM" presentation="1" type="2" date="1518644264854" duration="195" number="+12098338897"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 14, 2018 1:42:02 PM" presentation="1" type="2" date="1518644522183" duration="12" number="1800246362"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 14, 2018 1:42:32 PM" presentation="1" type="2" date="1518644552414" duration="142" number="+12098338897"/>
+
+<call contact_name="Sonali Bhabhi" readable_date="Feb 14, 2018 1:45:28 PM" presentation="1" type="2" date="1518644728669" duration="0" number="6615858406"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 14, 2018 1:46:00 PM" presentation="1" type="2" date="1518644760510" duration="1637" number="18002463627"/>
+
+<call contact_name="Reed" readable_date="Feb 14, 2018 2:47:48 PM" presentation="1" type="2" date="1518648468311" duration="4" number="+15109419816"/>
+
+<call contact_name="Vishal" readable_date="Feb 14, 2018 2:54:19 PM" presentation="1" type="2" date="1518648859574" duration="22" number="+14152656463"/>
+
+<call contact_name="Nicole" readable_date="Feb 14, 2018 5:11:32 PM" presentation="1" type="3" date="1518657092357" duration="0" number="+14086373629"/>
+
+<call contact_name="Nicole" readable_date="Feb 14, 2018 5:12:06 PM" presentation="1" type="3" date="1518657126473" duration="0" number="+14086373629"/>
+
+<call contact_name="Nicole" readable_date="Feb 14, 2018 5:12:42 PM" presentation="1" type="2" date="1518657162256" duration="15" number="+14086373629"/>
+
+<call contact_name="Vishal" readable_date="Feb 14, 2018 8:46:31 PM" presentation="1" type="1" date="1518669991366" duration="199" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 15, 2018 7:55:20 AM" presentation="1" type="3" date="1518710120830" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 15, 2018 8:11:30 AM" presentation="1" type="2" date="1518711090632" duration="45" number="+14152656463"/>
+
+<call contact_name="Nubi" readable_date="Feb 15, 2018 9:00:13 AM" presentation="1" type="2" date="1518714013491" duration="0" number="+15103222190"/>
+
+<call contact_name="Vishal" readable_date="Feb 15, 2018 9:25:42 AM" presentation="1" type="2" date="1518715542782" duration="2" number="+14152656463"/>
+
+<call contact_name="Nubi" readable_date="Feb 15, 2018 9:29:46 AM" presentation="1" type="2" date="1518715786513" duration="5" number="+15103222190"/>
+
+<call contact_name="Reed" readable_date="Feb 15, 2018 9:30:56 AM" presentation="1" type="2" date="1518715856680" duration="0" number="+15109419816"/>
+
+<call contact_name="Vishal" readable_date="Feb 15, 2018 9:43:52 AM" presentation="1" type="3" date="1518716632828" duration="0" number="+14152656463"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 15, 2018 9:52:41 AM" presentation="1" type="3" date="1518717161346" duration="0" number="3103405516"/>
+
+<call contact_name="Vishal" readable_date="Feb 15, 2018 9:55:06 AM" presentation="1" type="2" date="1518717306899" duration="148" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 15, 2018 9:58:27 AM" presentation="1" type="2" date="1518717507214" duration="43" number="+14152656463"/>
+
+<call contact_name="Reed" readable_date="Feb 15, 2018 10:30:51 AM" presentation="1" type="3" date="1518719451550" duration="0" number="5109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 15, 2018 10:36:54 AM" presentation="1" type="2" date="1518719814842" duration="368" number="+15109419816"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 15, 2018 10:55:50 AM" presentation="1" type="2" date="1518720950687" duration="267" number="8666399320"/>
+
+<call contact_name="Lily" readable_date="Feb 15, 2018 11:23:36 AM" presentation="1" type="3" date="1518722616972" duration="0" number="2094258282"/>
+
+<call contact_name="Lily" readable_date="Feb 15, 2018 11:26:32 AM" presentation="1" type="2" date="1518722792345" duration="103" number="2094258282"/>
+
+<call contact_name="Nubi" readable_date="Feb 15, 2018 11:30:31 AM" presentation="1" type="3" date="1518723031751" duration="0" number="5103222190"/>
+
+<call contact_name="Nubi" readable_date="Feb 15, 2018 11:31:49 AM" presentation="1" type="3" date="1518723109646" duration="0" number="5103222190"/>
+
+<call contact_name="Reed" readable_date="Feb 15, 2018 11:34:32 AM" presentation="1" type="3" date="1518723272935" duration="0" number="5109419816"/>
+
+<call contact_name="Nubi" readable_date="Feb 15, 2018 11:38:16 AM" presentation="1" type="2" date="1518723496376" duration="739" number="5103222190"/>
+
+<call contact_name="Reed" readable_date="Feb 15, 2018 11:43:52 AM" presentation="1" type="3" date="1518723832203" duration="0" number="5109419816"/>
+
+<call contact_name="Nubi" readable_date="Feb 15, 2018 11:50:57 AM" presentation="1" type="2" date="1518724257926" duration="3" number="5103222190"/>
+
+<call contact_name="Nubi" readable_date="Feb 15, 2018 11:51:48 AM" presentation="1" type="2" date="1518724308695" duration="3" number="5103222190"/>
+
+<call contact_name="Nubi" readable_date="Feb 15, 2018 11:52:32 AM" presentation="1" type="2" date="1518724352029" duration="0" number="5103222190"/>
+
+<call contact_name="Nubi" readable_date="Feb 15, 2018 11:53:02 AM" presentation="1" type="2" date="1518724382410" duration="0" number="5103222190"/>
+
+<call contact_name="Nubi" readable_date="Feb 15, 2018 11:54:38 AM" presentation="1" type="2" date="1518724478402" duration="2" number="5103222190"/>
+
+<call contact_name="Nubi" readable_date="Feb 15, 2018 11:57:45 AM" presentation="1" type="2" date="1518724665078" duration="2" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Feb 15, 2018 11:59:32 AM" presentation="1" type="2" date="1518724772240" duration="3" number="5103222190"/>
+
+<call contact_name="Nubi" readable_date="Feb 15, 2018 12:03:06 PM" presentation="1" type="2" date="1518724986797" duration="4" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Feb 15, 2018 12:03:53 PM" presentation="1" type="2" date="1518725033037" duration="3" number="+15103222190"/>
+
+<call contact_name="Reed" readable_date="Feb 15, 2018 12:06:33 PM" presentation="1" type="2" date="1518725193016" duration="3" number="5109419816"/>
+
+<call contact_name="Nubi" readable_date="Feb 15, 2018 12:07:22 PM" presentation="1" type="2" date="1518725242586" duration="3" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Feb 15, 2018 12:13:11 PM" presentation="1" type="2" date="1518725591252" duration="0" number="+15103222190"/>
+
+<call contact_name="N" readable_date="Feb 15, 2018 12:14:02 PM" presentation="1" type="2" date="1518725642385" duration="3" number="5109265754"/>
+
+<call contact_name="N" readable_date="Feb 15, 2018 12:14:19 PM" presentation="1" type="2" date="1518725659737" duration="0" number="5109265754"/>
+
+<call contact_name="Nubi" readable_date="Feb 15, 2018 12:18:08 PM" presentation="1" type="2" date="1518725888424" duration="3" number="+15103222190"/>
+
+<call contact_name="Reed" readable_date="Feb 15, 2018 12:23:47 PM" presentation="1" type="1" date="1518726227834" duration="591" number="5109419816"/>
+
+<call contact_name="Nubi" readable_date="Feb 15, 2018 12:34:38 PM" presentation="1" type="2" date="1518726878833" duration="3" number="+15103222190"/>
+
+<call contact_name="Nubi" readable_date="Feb 15, 2018 12:49:31 PM" presentation="1" type="2" date="1518727771336" duration="3" number="+15103222190"/>
+
+<call contact_name="Vishal" readable_date="Feb 15, 2018 12:54:44 PM" presentation="1" type="1" date="1518728084853" duration="202" number="+14152656463"/>
+
+<call contact_name="Nubi" readable_date="Feb 15, 2018 1:01:59 PM" presentation="1" type="2" date="1518728519549" duration="0" number="+15103222190"/>
+
+<call contact_name="Vishal" readable_date="Feb 15, 2018 1:16:36 PM" presentation="1" type="1" date="1518729396830" duration="98" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 15, 2018 1:57:23 PM" presentation="1" type="1" date="1518731843927" duration="69" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 15, 2018 2:23:47 PM" presentation="1" type="1" date="1518733427022" duration="230" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 15, 2018 3:36:08 PM" presentation="1" type="2" date="1518737768307" duration="34" number="+14152656463"/>
+
+<call contact_name="Reed" readable_date="Feb 15, 2018 3:51:47 PM" presentation="1" type="1" date="1518738707002" duration="154" number="5109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 15, 2018 4:52:28 PM" presentation="1" type="2" date="1518742348741" duration="0" number="+15109419816"/>
+
+<call contact_name="Vishal" readable_date="Feb 15, 2018 5:02:15 PM" presentation="1" type="2" date="1518742935198" duration="458" number="+14152656463"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 15, 2018 5:34:20 PM" presentation="1" type="3" date="1518744860934" duration="0" number="2098303319"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 15, 2018 5:37:23 PM" presentation="1" type="2" date="1518745043918" duration="3" number="2098303319"/>
+
+<call contact_name="Reed" readable_date="Feb 15, 2018 6:07:13 PM" presentation="1" type="2" date="1518746833697" duration="1455" number="+15109419816"/>
+
+<call contact_name="Nubi" readable_date="Feb 15, 2018 6:34:28 PM" presentation="1" type="2" date="1518748468785" duration="3" number="+15103222190"/>
+
+<call contact_name="Reed" readable_date="Feb 15, 2018 6:47:18 PM" presentation="1" type="2" date="1518749238453" duration="9" number="+15109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 15, 2018 7:14:42 PM" presentation="1" type="2" date="1518750882314" duration="4" number="+15109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 15, 2018 7:20:42 PM" presentation="1" type="1" date="1518751242274" duration="91" number="5109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 15, 2018 9:32:08 PM" presentation="1" type="2" date="1518759128636" duration="3" number="5109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 15, 2018 10:12:44 PM" presentation="1" type="2" date="1518761564478" duration="2" number="5109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 7:21:29 AM" presentation="1" type="2" date="1518794489897" duration="8" number="5109419816"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 16, 2018 7:38:52 AM" presentation="1" type="2" date="1518795532203" duration="3" number="4084770232"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 8:33:35 AM" presentation="1" type="2" date="1518798815463" duration="0" number="5109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 8:34:23 AM" presentation="1" type="2" date="1518798863848" duration="2" number="5109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 9:48:33 AM" presentation="1" type="2" date="1518803313490" duration="0" number="5109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 11:23:04 AM" presentation="1" type="2" date="1518808984060" duration="2" number="5109419816"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 16, 2018 11:25:50 AM" presentation="1" type="2" date="1518809150899" duration="3" number="4084770232"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 11:30:41 AM" presentation="1" type="2" date="1518809441654" duration="185" number="+14152656463"/>
+
+<call contact_name="Nicole" readable_date="Feb 16, 2018 1:27:19 PM" presentation="1" type="2" date="1518816439103" duration="35" number="+14086373629"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 16, 2018 1:54:28 PM" presentation="1" type="2" date="1518818068095" duration="8" number="*679168889405"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 2:55:08 PM" presentation="1" type="3" date="1518821708418" duration="0" number="5109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 2:55:55 PM" presentation="1" type="3" date="1518821755475" duration="0" number="5109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 3:01:38 PM" presentation="1" type="2" date="1518822098157" duration="1518" number="5109419816"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 3:32:20 PM" presentation="1" type="2" date="1518823940002" duration="74" number="+14152656463"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 4:44:56 PM" presentation="1" type="2" date="1518828296953" duration="330" number="5109419816"/>
+
+<call contact_name="Heather" readable_date="Feb 16, 2018 4:48:31 PM" presentation="1" type="3" date="1518828511133" duration="0" number="4422028282"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 4:52:03 PM" presentation="1" type="3" date="1518828723936" duration="0" number="5109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 4:52:53 PM" presentation="1" type="3" date="1518828773074" duration="0" number="5109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 5:18:46 PM" presentation="1" type="1" date="1518830326915" duration="295" number="5109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 5:28:22 PM" presentation="1" type="3" date="1518830902240" duration="0" number="5109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 5:28:53 PM" presentation="1" type="3" date="1518830933954" duration="0" number="5109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 5:29:53 PM" presentation="1" type="1" date="1518830993691" duration="267" number="5109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 5:39:29 PM" presentation="1" type="1" date="1518831569611" duration="956" number="5109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 5:59:52 PM" presentation="1" type="2" date="1518832792569" duration="124" number="5109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 6:02:52 PM" presentation="1" type="2" date="1518832972812" duration="4" number="5109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 6:03:43 PM" presentation="1" type="2" date="1518833023133" duration="81" number="5109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 6:12:13 PM" presentation="1" type="2" date="1518833533848" duration="4" number="+15109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 6:18:17 PM" presentation="1" type="2" date="1518833897842" duration="7" number="+15109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 6:27:23 PM" presentation="1" type="2" date="1518834443981" duration="5" number="+15109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 6:28:19 PM" presentation="1" type="2" date="1518834499680" duration="10" number="+15109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 6:35:24 PM" presentation="1" type="2" date="1518834924455" duration="11" number="+15109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 6:40:02 PM" presentation="1" type="2" date="1518835202056" duration="15" number="+15109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 7:24:20 PM" presentation="1" type="2" date="1518837860363" duration="4" number="+15109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 7:48:25 PM" presentation="1" type="2" date="1518839305136" duration="7" number="+15109419816"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 8:02:37 PM" presentation="1" type="3" date="1518840157385" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 8:03:14 PM" presentation="1" type="2" date="1518840194454" duration="558" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 8:13:01 PM" presentation="1" type="1" date="1518840781398" duration="118" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 8:15:44 PM" presentation="1" type="1" date="1518840944521" duration="665" number="+14152656463"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 8:39:15 PM" presentation="1" type="2" date="1518842355387" duration="75" number="+15109419816"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 8:52:00 PM" presentation="1" type="2" date="1518843120698" duration="316" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 9:05:49 PM" presentation="1" type="1" date="1518843949629" duration="133" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 9:13:05 PM" presentation="1" type="2" date="1518844385572" duration="31" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 9:17:57 PM" presentation="1" type="2" date="1518844677400" duration="21" number="+14152656463"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 9:24:14 PM" presentation="1" type="2" date="1518845054723" duration="3" number="+15109419816"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 9:32:47 PM" presentation="1" type="1" date="1518845567194" duration="494" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 9:58:37 PM" presentation="1" type="3" date="1518847117111" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 9:59:10 PM" presentation="1" type="3" date="1518847150549" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 10:03:25 PM" presentation="1" type="3" date="1518847405898" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 10:04:24 PM" presentation="1" type="3" date="1518847464113" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 10:04:55 PM" presentation="1" type="3" date="1518847495208" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 10:05:23 PM" presentation="1" type="3" date="1518847523415" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 10:05:51 PM" presentation="1" type="3" date="1518847551634" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 10:06:20 PM" presentation="1" type="3" date="1518847580928" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 10:06:47 PM" presentation="1" type="3" date="1518847607473" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 10:07:16 PM" presentation="1" type="3" date="1518847636358" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 10:07:42 PM" presentation="1" type="3" date="1518847662214" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 10:08:15 PM" presentation="1" type="3" date="1518847695874" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 10:08:44 PM" presentation="1" type="3" date="1518847724703" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 10:09:16 PM" presentation="1" type="1" date="1518847756365" duration="155" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 10:12:08 PM" presentation="1" type="1" date="1518847928514" duration="16" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 10:13:29 PM" presentation="1" type="1" date="1518848009738" duration="308" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 10:19:09 PM" presentation="1" type="2" date="1518848349195" duration="41" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 10:20:17 PM" presentation="1" type="2" date="1518848417991" duration="320" number="+14152656463"/>
+
+<call contact_name="Reed" readable_date="Feb 16, 2018 10:32:39 PM" presentation="1" type="2" date="1518849159361" duration="3" number="+15109419816"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 10:36:45 PM" presentation="1" type="2" date="1518849405772" duration="2" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 10:39:05 PM" presentation="1" type="2" date="1518849545877" duration="2" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 10:39:41 PM" presentation="1" type="2" date="1518849581460" duration="2" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 16, 2018 10:40:22 PM" presentation="1" type="2" date="1518849622839" duration="26" number="+14152656463"/>
+
+<call contact_name="Reed" readable_date="Feb 17, 2018 10:50:07 AM" presentation="1" type="2" date="1518893407735" duration="42" number="+15109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 17, 2018 10:51:22 AM" presentation="1" type="1" date="1518893482563" duration="1957" number="5109419816"/>
+
+<call contact_name="Vishal" readable_date="Feb 17, 2018 12:29:31 PM" presentation="1" type="2" date="1518899371123" duration="47" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 17, 2018 2:06:07 PM" presentation="1" type="2" date="1518905167432" duration="130" number="+14152656463"/>
+
+<call contact_name="Reed" readable_date="Feb 17, 2018 4:20:58 PM" presentation="1" type="1" date="1518913258196" duration="117" number="5109419816"/>
+
+<call contact_name="Vishal" readable_date="Feb 17, 2018 5:12:34 PM" presentation="1" type="1" date="1518916354377" duration="107" number="+14152656463"/>
+
+<call contact_name="Reed" readable_date="Feb 17, 2018 5:43:13 PM" presentation="1" type="3" date="1518918193271" duration="0" number="5109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 17, 2018 5:52:13 PM" presentation="1" type="2" date="1518918733500" duration="21" number="5109419816"/>
+
+<call contact_name="Reed" readable_date="Feb 17, 2018 5:52:38 PM" presentation="1" type="2" date="1518918758279" duration="17" number="+15109419816"/>
+
+<call contact_name="Vishal" readable_date="Feb 17, 2018 7:03:24 PM" presentation="1" type="2" date="1518923004241" duration="173" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 17, 2018 7:06:43 PM" presentation="1" type="1" date="1518923203574" duration="133" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 17, 2018 7:14:24 PM" presentation="1" type="2" date="1518923664482" duration="29" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 17, 2018 7:15:16 PM" presentation="1" type="2" date="1518923716587" duration="188" number="+14152656463"/>
+
+<call contact_name="Nicole" readable_date="Feb 17, 2018 7:22:34 PM" presentation="1" type="2" date="1518924154938" duration="3" number="+14086373629"/>
+
+<call contact_name="Vishal" readable_date="Feb 17, 2018 7:23:16 PM" presentation="1" type="2" date="1518924196903" duration="128" number="+14152656463"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 17, 2018 7:36:19 PM" presentation="1" type="2" date="1518924979602" duration="0" number="4084770232"/>
+
+<call contact_name="Nicole" readable_date="Feb 17, 2018 7:51:53 PM" presentation="1" type="2" date="1518925913997" duration="74" number="+14086373629"/>
+
+<call contact_name="Reed" readable_date="Feb 17, 2018 8:06:04 PM" presentation="1" type="2" date="1518926764143" duration="1425" number="+15109419816"/>
+
+<call contact_name="Vishal" readable_date="Feb 18, 2018 8:39:35 AM" presentation="1" type="1" date="1518971975364" duration="190" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 18, 2018 8:43:44 AM" presentation="1" type="3" date="1518972224765" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 18, 2018 8:44:52 AM" presentation="1" type="2" date="1518972292831" duration="3" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 18, 2018 8:55:53 AM" presentation="1" type="1" date="1518972953434" duration="302" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 18, 2018 9:07:26 AM" presentation="1" type="1" date="1518973646444" duration="30" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 18, 2018 9:08:44 AM" presentation="1" type="1" date="1518973724021" duration="346" number="+14152656463"/>
+
+<call contact_name="Lily" readable_date="Feb 18, 2018 10:45:07 AM" presentation="1" type="3" date="1518979507390" duration="0" number="2094258282"/>
+
+<call contact_name="Lily" readable_date="Feb 18, 2018 10:45:48 AM" presentation="1" type="3" date="1518979548932" duration="0" number="2094258282"/>
+
+<call contact_name="Lily" readable_date="Feb 18, 2018 10:49:24 AM" presentation="1" type="3" date="1518979764549" duration="0" number="2094258282"/>
+
+<call contact_name="Lily" readable_date="Feb 18, 2018 10:50:47 AM" presentation="1" type="2" date="1518979847072" duration="81" number="2094258282"/>
+
+<call contact_name="Lily" readable_date="Feb 18, 2018 1:13:02 PM" presentation="1" type="1" date="1518988382377" duration="22" number="2094258282"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 18, 2018 7:58:56 PM" presentation="1" type="2" date="1519012736346" duration="0" number="2092789404"/>
+
+<call contact_name="Vishal" readable_date="Feb 19, 2018 8:12:03 AM" presentation="1" type="3" date="1519056723942" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 19, 2018 8:12:58 AM" presentation="1" type="3" date="1519056778828" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 19, 2018 8:18:52 AM" presentation="1" type="2" date="1519057132991" duration="82" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 19, 2018 9:01:04 AM" presentation="1" type="2" date="1519059664589" duration="132" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 19, 2018 10:11:21 AM" presentation="1" type="1" date="1519063881728" duration="69" number="+14152656463"/>
+
+<call contact_name="(Unknown)" readable_date="Feb 19, 2018 12:53:07 PM" presentation="1" type="2" date="1519073587342" duration="49" number="+12096379138"/>
+
+<call contact_name="Reed" readable_date="Feb 19, 2018 12:58:58 PM" presentation="1" type="2" date="1519073938427" duration="6" number="+15109419816"/>
+
+<call contact_name="Lily" readable_date="Feb 19, 2018 2:16:16 PM" presentation="1" type="3" date="1519078576326" duration="0" number="2094258282"/>
+
+<call contact_name="Lily" readable_date="Feb 19, 2018 2:57:43 PM" presentation="1" type="3" date="1519081063125" duration="0" number="2094258282"/>
+
+<call contact_name="Lily" readable_date="Feb 19, 2018 2:58:53 PM" presentation="1" type="2" date="1519081133543" duration="0" number="2094258282"/>
+
+<call contact_name="Vishal" readable_date="Feb 19, 2018 5:25:29 PM" presentation="1" type="3" date="1519089929952" duration="0" number="+14152656463"/>
+
+<call contact_name="Vishal" readable_date="Feb 19, 2018 5:26:25 PM" presentation="1" type="2" date="1519089985146" duration="153" number="+14152656463"/>
+
+</calls>
